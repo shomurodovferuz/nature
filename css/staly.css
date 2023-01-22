@@ -225,3 +225,45 @@ body {
     line-height: 30px;
     margin: 30px 0;
 }
+
+.organic .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.organic_img, .organic_text{
+    width: 45%;
+}
+
+.organic_img img{
+    width: 400px;
+}
+
+.organic_text h2{
+    font-size: 30px;
+    color: #192252;
+}
+
+.organic_text p {
+    color: #848FAC;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 30px 0;
+}
+
+.many .container{
+    text-align: center;
+    margin: 80px auto;
+}
+.many_text p{
+    color: #848FAC;
+    font-size: 18px;
+    width: 50%;
+    line-height: 30px;
+    margin: 30px auto;
+
+}
